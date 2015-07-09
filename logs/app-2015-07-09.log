@@ -1,0 +1,24 @@
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mlogger hook loaded successfully.","timestamp":"2015-07-09T05:29:57.984Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mrequest hook loaded successfully.","timestamp":"2015-07-09T05:29:57.990Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mLoading the app's models and adapters...","timestamp":"2015-07-09T05:29:57.992Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mLoading app models...","timestamp":"2015-07-09T05:29:57.993Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mLoading app adapters...","timestamp":"2015-07-09T05:29:57.997Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mLoading blueprint middleware...","timestamp":"2015-07-09T05:29:58.001Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mblueprints hook loaded successfully.","timestamp":"2015-07-09T05:29:58.019Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mresponses hook loaded successfully.","timestamp":"2015-07-09T05:29:58.020Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mcontrollers hook loaded successfully.","timestamp":"2015-07-09T05:29:58.032Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mLoading policy modules from app...","timestamp":"2015-07-09T05:29:58.036Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mFinished loading policy middleware logic.","timestamp":"2015-07-09T05:29:58.045Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mpolicies hook loaded successfully.","timestamp":"2015-07-09T05:29:58.047Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mservices hook loaded successfully.","timestamp":"2015-07-09T05:29:58.047Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mcors hook loaded successfully.","timestamp":"2015-07-09T05:29:58.049Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mhttp hook loaded successfully.","timestamp":"2015-07-09T05:29:58.430Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mPreparing socket.io...","timestamp":"2015-07-09T05:29:58.431Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39msockets hook loaded successfully.","timestamp":"2015-07-09T05:29:58.483Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mLoading adapter ( sails-mongo ) for user  from `node_modules` directory...","timestamp":"2015-07-09T05:29:58.496Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mStarting ORM...","timestamp":"2015-07-09T05:29:58.977Z"}
+{"level":"silly","message":"\u001b[31ms\u001b[39m\u001b[33mi\u001b[39m\u001b[32ml\u001b[39m\u001b[34ml\u001b[39m\u001b[35my\u001b[39m\u001b[31m:\u001b[39m Registering model `user` in Waterline (ORM)","timestamp":"2015-07-09T05:29:58.978Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39morm hook loaded successfully.","timestamp":"2015-07-09T05:30:00.925Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mBuilt-in hooks are ready.","timestamp":"2015-07-09T05:30:00.927Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mInstantiating registry...","timestamp":"2015-07-09T05:30:00.929Z"}
+{"level":"verbose","message":"\u001b[36mverbose: \u001b[39mLoading router...","timestamp":"2015-07-09T05:30:00.933Z"}

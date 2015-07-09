@@ -1,0 +1,42 @@
+{
+  "name": "ottoAPI",
+  "version": "0.1.0",
+  "main": "app.js",
+  "dependencies": {
+    "apn": "^1.7.4",
+    "aws-sdk": "^2.1.37",
+    "bcrypt": "^0.8.3",
+    "bluebird": "^2.9.32",
+    "extend": "^3.0.0",
+    "fb": "^0.7.0",
+    "gcloud": "^0.16.0",
+    "jsklass": "^2.2.0",
+    "jsonwebtoken": "^5.0.2",
+    "ldapjs": "^0.7.1",
+    "mandrill-api": "^1.0.45",
+    "mkdirp": "^0.5.1",
+    "node-gcm": "^0.10.0",
+    "node.extend": "^1.1.5",
+    "passport": "^0.2.2",
+    "passport-jwt": "^1.1.0",
+    "passport-ldapauth": "^0.3.0",
+    "passport-local": "^1.0.0",
+    "q": "^1.4.1",
+    "rc": "^1.0.3",
+    "sails": "^0.11.0",
+    "sails-mongo": "^0.11.2",
+    "stripe": "^3.6.0",
+    "twilio": "^2.2.1",
+    "winston": "^1.0.1"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.13",
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "debug": "node debug app.js",
+    "test": "istanbul cover _mocha",
+    "console": "sails console"
+  }
+}
